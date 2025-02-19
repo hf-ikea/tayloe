@@ -5,3 +5,6 @@ tayloe.bak
 tayloe.kicad_dru
 fp-lib-table
 sym-lib-table
+bom/
+production/
+fabrication-toolkit-options.json
