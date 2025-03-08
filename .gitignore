@@ -8,4 +8,4 @@ sym-lib-table
 bom/
 production/
 fabrication-toolkit-options.json
-~tayloe.kicad_sch.lck
+*.lck
